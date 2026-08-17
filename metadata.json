@@ -1,0 +1,6 @@
+{
+  "name": "Turnuva Puan Tablosu",
+  "description": "9 takımlı 3 grup rövanşlı maçlar, otomatik puan durumu ve en iyi ikincili eleme turnuva aşaması göstergesi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
